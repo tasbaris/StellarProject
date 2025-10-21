@@ -1,6 +1,7 @@
 # GoodMint
 
-![Team Logo][]
+<img width="1536" height="1024" alt="goodmint_logo" src="https://github.com/user-attachments/assets/1108dd63-e9e3-48d5-b2f2-54ae7cdca09b" />
+
 
 ## About Me
 
